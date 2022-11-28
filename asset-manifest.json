@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dennis-kipchumba/static/css/main.33912ba3.css",
-    "main.js": "/dennis-kipchumba/static/js/main.625767fe.js",
+    "main.css": "/dennis-kipchumba/static/css/main.82387999.css",
+    "main.js": "/dennis-kipchumba/static/js/main.497e5ae6.js",
     "index.html": "/dennis-kipchumba/index.html",
-    "main.33912ba3.css.map": "/dennis-kipchumba/static/css/main.33912ba3.css.map",
-    "main.625767fe.js.map": "/dennis-kipchumba/static/js/main.625767fe.js.map"
+    "main.82387999.css.map": "/dennis-kipchumba/static/css/main.82387999.css.map",
+    "main.497e5ae6.js.map": "/dennis-kipchumba/static/js/main.497e5ae6.js.map"
   },
   "entrypoints": [
-    "static/css/main.33912ba3.css",
-    "static/js/main.625767fe.js"
+    "static/css/main.82387999.css",
+    "static/js/main.497e5ae6.js"
   ]
 }
